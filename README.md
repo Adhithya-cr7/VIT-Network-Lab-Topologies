@@ -27,6 +27,6 @@ The script automatically executes the following:
 - [x] **E:** Calculation of Total Network Size.
 
 ## How to Run
-1. Open **Scilab 5.5.2**.
+1. Open **Scilab 6.0.0**.
 2. Install the **NARVAL 3.1** toolbox.
 3. Load and execute the `.sce` file provided in this repository.
